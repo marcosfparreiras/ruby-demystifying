@@ -1,0 +1,4 @@
+ruby:
+  build: .
+  volumes:
+    - .:/usr/src/app
